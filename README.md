@@ -1,2 +1,2 @@
 # testsel
-for Stepik
+or Stepik
